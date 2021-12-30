@@ -19,9 +19,9 @@ global.APIKeys = {
 
 // Other
 global.ownername = 'Sanz'
-global.owner = ['6282185838729']
-global.packname = 'Create By Shiro'
-global.author = 'Syiko(Sanz)'
+global.owner = ['62895369318181']
+global.packname = 'Create By AhmadChenDev'
+global.author = 'LulzGhost-Team'
 global.sessionName = 'hisoka'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
