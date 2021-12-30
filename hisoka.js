@@ -841,7 +841,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                 let buttonMessage = {
                     image: {url: 'https://telegra.ph/file/bb15c9a53c4a0b68a99fa.jpg' },
                     caption: `Hello @${m.sender.split("@")[0]}`,
-                    footerText: 'Hi Im Hisoka Bot',
+                    footerText: 'Hi Im BLACKHAT Bot',
                     buttons: buttons,
                     headerType: 4
                 }
@@ -941,12 +941,12 @@ _Xfar_
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://github.com/DikaArdnt/Hisoka-Morou'
+                                    url: 'https://github.com/koleksibot'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                    phoneNumber: '+62 895-3693-18181'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1059,12 +1059,12 @@ _Xfar_
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Github',
-                                    url: 'https://github.com/Fxc4Sanz'
+                                    url: 'https://github.com/koleksibot'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Number Owner',
-                                    phoneNumber: '+62 821-8583-8729'
+                                    phoneNumber: '+62 895-3693-18181'
                                 }
                             }, {
                                 quickReplyButton: {
